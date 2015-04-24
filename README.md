@@ -11,6 +11,8 @@ uuid generator, used in [`webrtc-chord`](https://github.com/diasdavid/webrtc-cho
 [![Dependency Status](https://david-dm.org/diasdavid/webrtc-chord-uuid.svg)](https://david-dm.org/diasdavid/webrtc-chord-uuid)
 [![Build Status](https://travis-ci.org/diasdavid/webrtc-chord-uuid.svg)](https://travis-ci.org/diasdavid/webrtc-chord-uuid)
 
+[![](https://cldup.com/pgZbzoshyV-3000x3000.png)](http://www.gsd.inesc-id.pt/)
+
 # Descritpion
 
 Generates 160 bit unique Ids represented in hexadecimal format
